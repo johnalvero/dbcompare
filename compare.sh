@@ -30,5 +30,4 @@ do
                 # Output record count
                 echo "$tb,$jcount,reccount"
         done
-        exit
 done
